@@ -15,7 +15,7 @@ const findPrimes = function (arr) {
     }
     return true;
   }
-  const numbers = [1, 2, 3, 4, 5, 6, 7, 8, 9,11,13, 10];
+  const numbers = [1, 2, 3, 4, 5, 6, 7, 8, 9, 11, 13, 10];
   console.log(findPrimes(numbers));
   
   
